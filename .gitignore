@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Temporary files
+data/realtime_report_previous.json
+
+# IDE settings
+.vscode/
+
+*.log
+
+*.pem
+
+*.plist
+
+ekiden_map.kml

@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+gunicorn
+pywebpush
+python-dotenv
+supabase
+requests
+beautifulsoup4
+geopy
+openai

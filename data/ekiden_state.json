@@ -1,0 +1,154 @@
+[
+  {
+    "id": 18,
+    "name": "琉球大学",
+    "totalDistance": 152.2,
+    "currentLeg": 2,
+    "overallRank": 1,
+    "finishDay": null
+  },
+  {
+    "id": 1,
+    "name": "名古屋大学",
+    "totalDistance": 149.8,
+    "currentLeg": 2,
+    "overallRank": 2,
+    "finishDay": null
+  },
+  {
+    "id": 7,
+    "name": "福岡大学",
+    "totalDistance": 142.9,
+    "currentLeg": 2,
+    "overallRank": 3,
+    "finishDay": null
+  },
+  {
+    "id": 12,
+    "name": "熊本学園大学",
+    "totalDistance": 142.0,
+    "currentLeg": 2,
+    "overallRank": 4,
+    "finishDay": null
+  },
+  {
+    "id": 4,
+    "name": "山梨学院大学",
+    "totalDistance": 141.7,
+    "currentLeg": 2,
+    "overallRank": 5,
+    "finishDay": null
+  },
+  {
+    "id": 10,
+    "name": "三重大学",
+    "totalDistance": 141.4,
+    "currentLeg": 2,
+    "overallRank": 6,
+    "finishDay": null
+  },
+  {
+    "id": 5,
+    "name": "立命館大学",
+    "totalDistance": 141.2,
+    "currentLeg": 2,
+    "overallRank": 7,
+    "finishDay": null
+  },
+  {
+    "id": 15,
+    "name": "四国大学",
+    "totalDistance": 140.0,
+    "currentLeg": 2,
+    "overallRank": 8,
+    "finishDay": null
+  },
+  {
+    "id": 13,
+    "name": "金沢大学",
+    "totalDistance": 139.6,
+    "currentLeg": 2,
+    "overallRank": 9,
+    "finishDay": null
+  },
+  {
+    "id": 2,
+    "name": "上武大学",
+    "totalDistance": 138.9,
+    "currentLeg": 2,
+    "overallRank": 10,
+    "finishDay": null
+  },
+  {
+    "id": 3,
+    "name": "関西大学",
+    "totalDistance": 137.8,
+    "currentLeg": 2,
+    "overallRank": 11,
+    "finishDay": null
+  },
+  {
+    "id": 9,
+    "name": "鳥取大学",
+    "totalDistance": 136.7,
+    "currentLeg": 2,
+    "overallRank": 12,
+    "finishDay": null
+  },
+  {
+    "id": 11,
+    "name": "日本大学",
+    "totalDistance": 136.6,
+    "currentLeg": 2,
+    "overallRank": 13,
+    "finishDay": null
+  },
+  {
+    "id": 17,
+    "name": "鹿児島大学",
+    "totalDistance": 135.9,
+    "currentLeg": 2,
+    "overallRank": 14,
+    "finishDay": null
+  },
+  {
+    "id": 6,
+    "name": "広島経済大学",
+    "totalDistance": 133.1,
+    "currentLeg": 2,
+    "overallRank": 15,
+    "finishDay": null
+  },
+  {
+    "id": 16,
+    "name": "福島大学",
+    "totalDistance": 114.8,
+    "currentLeg": 2,
+    "overallRank": 16,
+    "finishDay": null
+  },
+  {
+    "id": 14,
+    "name": "東北大学",
+    "totalDistance": 111.7,
+    "currentLeg": 2,
+    "overallRank": 17,
+    "finishDay": null
+  },
+  {
+    "id": 8,
+    "name": "学連選抜",
+    "totalDistance": 101.7,
+    "currentLeg": 2,
+    "overallRank": 18,
+    "finishDay": null
+  },
+  {
+    "id": 99,
+    "name": "区間記録連合",
+    "totalDistance": 155.8,
+    "currentLeg": 2,
+    "overallRank": null,
+    "finishDay": null
+  }
+]

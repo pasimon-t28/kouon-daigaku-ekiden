@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "2026-06-23T08:05:11.181558",
+  "snapshots": [
+    {
+      "filename": "realtime_report_20260623_0005.json",
+      "timestamp": "2026-06-23T00:05:00",
+      "timestamp_str": "20260623_0005"
+    },
+    {
+      "filename": "realtime_report_20260623_0105.json",
+      "timestamp": "2026-06-23T01:05:00",
+      "timestamp_str": "20260623_0105"
+    },
+    {
+      "filename": "realtime_report_20260623_0205.json",
+      "timestamp": "2026-06-23T02:05:00",
+      "timestamp_str": "20260623_0205"
+    },
+    {
+      "filename": "realtime_report_20260623_0305.json",
+      "timestamp": "2026-06-23T03:05:00",
+      "timestamp_str": "20260623_0305"
+    },
+    {
+      "filename": "realtime_report_20260623_0405.json",
+      "timestamp": "2026-06-23T04:05:00",
+      "timestamp_str": "20260623_0405"
+    },
+    {
+      "filename": "realtime_report_20260623_0505.json",
+      "timestamp": "2026-06-23T05:05:00",
+      "timestamp_str": "20260623_0505"
+    },
+    {
+      "filename": "realtime_report_20260623_0605.json",
+      "timestamp": "2026-06-23T06:05:00",
+      "timestamp_str": "20260623_0605"
+    },
+    {
+      "filename": "realtime_report_20260623_0705.json",
+      "timestamp": "2026-06-23T07:05:00",
+      "timestamp_str": "20260623_0705"
+    },
+    {
+      "filename": "realtime_report_20260623_0805.json",
+      "timestamp": "2026-06-23T08:05:00",
+      "timestamp_str": "20260623_0805"
+    }
+  ]
+}
